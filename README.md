@@ -3,7 +3,7 @@
 ### **DJANGO**
 
 **Create Virtual Environment**
-`pip3 install`
+`pip3 install pipenv`
 
 **สร้าง virtual**
 ```pipenv shell```
