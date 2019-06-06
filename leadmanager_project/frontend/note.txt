@@ -1,0 +1,3 @@
++ src create components react
++ static เก็บ app.js หลังจาก compile 
++ templates เก็บ html
