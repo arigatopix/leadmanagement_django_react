@@ -1,3 +1,6 @@
 from django.shortcuts import render
 
-# Create your views here.
+
+def index(request):
+    ''' ให้ดูที่ index.html ซึ่งเป็น react templates'''
+    return render(request, 'frontend/index.html')
